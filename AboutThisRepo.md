@@ -1,4 +1,4 @@
-- nandana
+- hello.this is my first repository where i actually posted something.
 - I'm new here.
 - this repo is for posting small ML projects i created while i was in a ML internship. these are basic codes written in python on google colab environment.
 - they are just simple and easy projects.
